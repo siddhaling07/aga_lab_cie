@@ -1,3 +1,4 @@
+
 # Financial Fraud Detection using Autoencoder
 
 This project uses an autoencoder to detect fraudulent transactions in the Credit Card Fraud dataset.
@@ -59,3 +60,6 @@ Run the unit tests with:
 ```powershell
 pytest
 ```
+
+# aga_lab_cie
+
